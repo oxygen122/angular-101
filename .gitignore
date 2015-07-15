@@ -3,7 +3,4 @@ dist
 .tmp
 .sass-cache
 bower_components
-
-.tmp/
-bower_components/
-node_modules/
+*.log
